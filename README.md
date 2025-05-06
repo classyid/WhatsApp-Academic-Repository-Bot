@@ -1,4 +1,3 @@
-```markdown
 # WhatsApp Academic Repository Bot
 
 Bot WhatsApp cerdas yang memungkinkan pengguna mencari, mengakses, dan menganalisis dokumen dari repositori karya ilmiah dengan mudah dan cepat. Terintegrasi dengan Gemini AI untuk memberikan analisis dan rangkuman komprehensif atas dokumen PDF ilmiah.
