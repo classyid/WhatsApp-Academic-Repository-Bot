@@ -36,7 +36,7 @@ Bot WhatsApp cerdas yang memungkinkan pengguna mencari, mengakses, dan menganali
 
 1. Clone repository ini
    ```bash
-   git clone https://github.com/yourusername/WhatsApp-Academic-Repository-Bot.git
+   git clone https://github.com/classyid/WhatsApp-Academic-Repository-Bot.git
    cd WhatsApp-Academic-Repository-Bot
    ```
 
